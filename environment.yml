@@ -1,9 +1,13 @@
 name: null
 
 channels:
+  - conda-forge
   - defaults
 
 dependencies:
+  - cudatoolkit-dev=10.1
+  - cudnn=7.6
+  - julia=1.1
   - jupyterlab=1.1
   - python=3.6
   
