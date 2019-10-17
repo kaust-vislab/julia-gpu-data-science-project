@@ -1,6 +1,6 @@
-# python-gpu-data-science-project
+# julia-gpu-data-science-project
 
-Repository containing scaffolding for a Python 3-based data science project with GPU acceleration. 
+Repository containing scaffolding for a Julia and Python 3-based data science project with GPU acceleration. 
 
 ## Creating a new project from this template
 
